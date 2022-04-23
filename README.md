@@ -57,3 +57,8 @@ const qkmPages = require('qkm-pages')
 > **NOTE**: Be sure to merge the latest from "upstream" before making a pull request!
 
 
+npm login
+qkm1016
+qkm@19861016
+1874050212@qq.com
+npm publish
