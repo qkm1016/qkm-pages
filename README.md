@@ -62,3 +62,11 @@ qkm1016
 qkm@19861016
 1874050212@qq.com
 npm publish
+发布完成查看当前包版本 npm version
+更新npm包，需要首先更改version npm version 1.0.1
+或者
+npm version patch更新一个补丁
+npm version minor更新一个小改动
+npm version major更新一个大改动
+
+发布 npm publish
